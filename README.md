@@ -1,4 +1,4 @@
-# Micrograd: Scalar Autograd Engine
+# Micrograd: Scalar Autograd Engine  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Akash12373/Name-generator/blob/main/name_generator_transformer.ipynb)
 
 A lightweight, purely Python implementation of a scalar-valued backpropagation engine, built from scratch. 
 
